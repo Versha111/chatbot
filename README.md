@@ -55,7 +55,7 @@ The Llama2 Bot can be used for answering medical-related queries. To use the bot
 
 ## Contributing
 
-Contributions to the Llama2 Medical Bot are welcome! If you'd like to contribute to the project, please follow these steps:
+Contributions to the Llama2 Chatbot are welcome! If you'd like to contribute to the project, please follow these steps:
 
 1. Fork the repository to your own GitHub account.
 
