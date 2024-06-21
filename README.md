@@ -17,7 +17,7 @@ The Llama2 Chatbot is a powerful tool designed to provide medical information by
 
 ## Prerequisites
 
-Before you can start using the Llama2 Medical Bot, make sure you have the following prerequisites installed on your system:
+Before you can start using the Llama2 Chatbot, make sure you have the following prerequisites installed on your system:
 
 - Python 3.6 or higher
 - Required Python packages (you can install them using pip):
@@ -29,7 +29,7 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
 ## Getting Started
 
-To get started with the Llama2 Llama2 Chatbot, you need to:
+To get started with the Llama2 Chatbot, you need to:
 
 1. Set up your environment and install the required packages as described in the Installation section.
 
